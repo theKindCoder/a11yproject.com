@@ -196,6 +196,9 @@ further_reading:
   - title: "My Journey with Accessibility Overlays: A 13-Year Reflection"
     source: Amihai Miron on LinkedIn
     url: https://www.linkedin.com/posts/amihaimiron_my-journey-with-accessibility-overlays-a-activity-7201231937078734849-xYQy/
+  - title: "The Accessibility Menu, a Friend to Eschew?"
+    source: Grand Duchy of Luxembourg
+    url: https://accessibilite.public.lu/en/news/2025-03-18-menus.html
   - title: "The Promise and Pitfalls of Web Accessibility Overlays for Blind and Low Vision Users"
     source: ResearchGate
     url: https://www.researchgate.net/publication/383118166_The_Promise_and_Pitfalls_of_Web_Accessibility_Overlays_for_Blind_and_Low_Vision_Users  
