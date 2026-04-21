@@ -109,6 +109,12 @@ further_reading:
   - title: National Convention Sponsorship Statement Regarding accessiBe
     url: https://nfb.org/about-us/press-room/national-convention-sponsorship-statement-regarding-accessibe
     source: National Federation of the Blind
+  - title: "Do Accessibility Overlays Actually Help? Weighing the Pros and Cons"
+    url: https://www.abrightclearweb.com/accessibility-overlays-pros-and-cons/
+    source: A Bright Clear Web
+  - title: The major technical reasons why accessibility overlays don’t work
+    url: https://afixt.com/the-major-technical-reasons-why-accessibility-overlays-dont-work/
+    source: AFixt
   - title: Not All Accessibility Overlays Are Created Equal
     url: https://www.deque.com/blog/not-all-accessibility-overlays-are-created-equal/
     source: Deque
